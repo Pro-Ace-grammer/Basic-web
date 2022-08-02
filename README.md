@@ -1,2 +1,2 @@
-# demo codes
+# Demo codes
 By Arsalan and Adriel.
